@@ -128,7 +128,7 @@ export default function Hero() {
             </div>
             <div className="text-center">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                ISO LESS
+                ISOLess
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600">
               Experience the power of mixed reality without any invasive equipment. Our system seamlessly integrates with your surroundings, recognizing you and transporting you to a world of healing and distraction. Say goodbye to fear and anxiety around hospital procedures and treatments, and hello to a new level of comfort and peace.

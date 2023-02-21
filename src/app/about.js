@@ -71,7 +71,7 @@ export default function About() {
         <div className="mx-auto max-w-2xl lg:mx-0">
           <h2 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">About us</h2>
           <p className="mt-6 text-lg leading-8 text-gray-300">
-          We are presenting a technology that reduces the hospital feel and minimises isolation with a personalised immersive space,
+          We are presenting a technology that reduces the hospital feel and minimizes isolation with a personalized immersive space,
           We believe this would decrease fear around the hospital environment, distract patients from procedures/treatments and improve the overall experience.
           </p>
         </div>
