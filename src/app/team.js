@@ -33,16 +33,7 @@ const people = [
     imageUrl:
       'https://res.cloudinary.com/leandrobarbosalemos/image/upload/v1676935450/krishini.jpg',
     bio: 'Infrastructure advisor with 4 years exp in cost modelling in transport. Completed 10-week data science bootcamp, proficient in Python, SQL, Machine Learning. Check out data projects: https://github.com/krishinipatel.',
-  },
-  {
-    name: 'Leandro Barbosa',
-    role: 'Web Developer',
-
-    imageUrl:
-      'https://res.cloudinary.com/leandrobarbosalemos/image/upload/v1676934513/leandro.jpg',
-    bio: '11 years in business management, completing FullStack Web Development at Le Wagon & teaching assistant. Working as Front-End developer @indemnisation.com.',
-  },
-  // More people...
+  }
 ]
 
 export default function Team() {
